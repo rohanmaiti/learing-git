@@ -7,6 +7,6 @@ function Name(parameter){
 function even(array){
     return array.filter(e=>e%2==0);
 }
-const sum = require('./SRC/userRoutes')
 
-console.log(sum(10,30)) ; // calling sum function
+//calling the even function
+console.log(even([1,2,3,4,5,6,7]));
