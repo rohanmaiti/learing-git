@@ -5,7 +5,7 @@ function Name(parameter){
 }
 
 function even(array){
-    return array.filter(e=>e%2==0);
+    return array.filter(e1=>e1%2==0);
 }
 
 //calling the even function
