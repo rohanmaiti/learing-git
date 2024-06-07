@@ -10,3 +10,6 @@ function even(array){
 
 //calling the even function
 console.log(even([1,2,3,4,5,6,7]));
+
+// this is feature1 branch and working from here Rohan
+console.log(undefined + NaN);
