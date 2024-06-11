@@ -17,3 +17,5 @@ console.log(undefined + NaN);
 // this is to learn conflict
 console.log("button")
 console.log("this is drop down menu");
+
+// this is very easy
